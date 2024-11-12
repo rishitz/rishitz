@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishit Zaveri</h1>
-<h3 align="center">DevOps and Cloud Enthusiast from India</h3>
+<h3 align="center">DevOps and Cloud Enthusiast </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishitz" alt="rishitz" /></a> </p>
 
 - 💬 Ask me about **Cloud and DevOps**
 
